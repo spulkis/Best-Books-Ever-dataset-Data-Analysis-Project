@@ -1,0 +1,2 @@
+CONNECTION_STRING=mysql+pymysql://USER:PASSWORD@HOSTNAME/DATABASE
+CSV_PATH=data_sample\books_1.Best_Books_Ever.csv
